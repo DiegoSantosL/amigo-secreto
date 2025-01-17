@@ -8,7 +8,7 @@
 
 <div align="center">
 
-### <a href ='https://github.com/DiegoSantosL/amigo-secreto.git'> <<- Ir para o projeto ->>  </a> 
+### <a href ='https://github.com/DiegoSantosL/amigo-secreto'> <<- Ir para o projeto ->>  </a> 
 </div>
 
 # SÚMARIO
@@ -67,10 +67,10 @@ git clone https://github.com/DiegoSantosL/amigo-secreto.git
 ```
 
 
-# autoria <a name="id05"></a>
+# autoria 
 <a href="https://www.linkedin.com/in/diego-santos-280aba16a" >Diego Santos</a>
 
-# ver funcionamento <a name="id06> </a>
+# ver funcionamento 
 <a href="https://amigo-secreto-seven-smoky.vercel.app/"> Sorteio Amigo Secreto </a>
 
 <div  align='center'>

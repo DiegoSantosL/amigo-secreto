@@ -29,7 +29,6 @@ function atualizaListaDeAmigos(){
 function sortearAmigo()
 {
     let nomeAmigosorteado=amigos[parseInt(Math.random()*amigos.length)];
-    alert(nomeAmigosorteado);
     let resultado=document.getElementById('resultado');
     resultado.value=nomeAmigosorteado;
 }
