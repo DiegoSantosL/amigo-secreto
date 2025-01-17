@@ -71,7 +71,7 @@ git clone https://github.com/DiegoSantosL/amigo-secreto.git
 <a href="https://www.linkedin.com/in/diego-santos-280aba16a" >Diego Santos</a>
 
 # ver funcionamento 
-<a href="(https://amigo-secreto-lac-nine.vercel.app/)"> Sorteio Amigo Secreto </a>
+<a href="https://amigo-secreto-lac-nine.vercel.app/"> Sorteio Amigo Secreto </a>
 
 <div  align='center'>
 
